@@ -1,6 +1,3 @@
-# Continual-Learning-for-Autonomous-Vehicles
-Here's a draft README for the GitHub repository based on the project description:
-
 # Continual Learning for Autonomous Vehicle Steering
 
 This repository contains the implementation of a continual learning system for autonomous vehicle steering control, developed as part of a project at New York University from January to May 2024.
